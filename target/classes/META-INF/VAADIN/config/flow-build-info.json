@@ -1,0 +1,11 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\vaadin-project-nb1\\my-todo",
+  "generatedFolder": "C:\\vaadin-project-nb1\\my-todo\\target\\frontend",
+  "frontendFolder": "C:\\vaadin-project-nb1\\my-todo\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "node.version": "v14.21.1",
+  "node.download.root": "https://nodejs.org/dist/"
+}
